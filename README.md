@@ -10,6 +10,7 @@ This project explores the development of classification models to predict whethe
 - Age
 - Proximity to mountains and beaches
 - Vacation budget
+
 We implemented both **logistic regression** and an **artificial neural network (ANN)** to compare their performance and identify key predictors of user preference
 ## 🎯 Project Objectives
 - Build a classification model to predict vacation preferences
