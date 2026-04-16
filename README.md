@@ -1,5 +1,5 @@
 # 🏖️🏔️ User Vacation Preference Prediction
-**Course:** ISE-221: Intelligent Systems
+**Course:** ISE-221: Intelligent Systems 1
 
 **Timeline:** October 2024-December 2024
 
