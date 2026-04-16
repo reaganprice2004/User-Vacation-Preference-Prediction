@@ -1,4 +1,4 @@
-# 🏖️🏔️ User Vacation Preference Prediction (Python)
+# 🏖️🏔️ User Vacation Preference Prediction
 **Course:** ISE-221: Intelligent Systems
 
 **Timeline:** October 2024-December 2024
@@ -33,7 +33,7 @@ We implemented both **logistic regression** and an **artificial neural network (
   ## 🤖 Model #1: Logistic Regression
   ### Model Details
   - Trained using scaled features
-  - Evaluated using precision, recall, and F1-score, and confusion matrix.
+  - Evaluated using precision, recall, and F1-score, and a confusion matrix.
   ### Performance Summary
   |  Metric   | Class 0 (Beach)  | Class 1 (Mountain)  |
   |-----------|------------------|---------------------|
@@ -57,7 +57,7 @@ We implemented both **logistic regression** and an **artificial neural network (
 ## Evaluation
 - Trained and validated using resampled data.
 - Plotted training/validation accuracy and loss.
-- Evaluated using classification report and confusion matrix.
+- Evaluated using a classification report and a confusion matrix.
 ## 📊 Performance Comparison
 |  Metric   | Logistic Regression  | ANN    |
 |-----------|----------------------|--------|
